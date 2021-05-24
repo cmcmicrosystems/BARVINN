@@ -13,7 +13,7 @@ You first need to clone the repository and update the submodules:
 
 Now that you cloned the BARVINN repository, you can run a sample code. First make sure the Vivado is sourced, example for Vivado 2019.1: 
 
-    source /opt/Xilinx/Vivado/2019.1/settings64.sh
+    source /CMC/accelerator/xilinx/Vivado/2019.1/settings64.sh
 
 Then make sure you have fusesoc installed:
 
