@@ -48,7 +48,7 @@ project file for you.
 
 ## Documentation:
 
-BARVINN documentation is available in [docs/](https://github.com/hossein1387/BARVINN/tree/master/docs) folder. However, you can follow this url for an online version of documentation hosted on readthedocs. This url will ocassionally gets updated. You can build the lates docs using the following:
+BARVINN documentation is available in [docs/](https://github.com/hossein1387/BARVINN/tree/master/docs) folder. However, you can follow https://barvinn.readthedocs.io/ for an online version of documentation hosted on readthedocs. This url will ocassionally gets updated. You can build the lates docs using the following:
 
 
     cd docs
